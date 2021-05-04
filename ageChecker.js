@@ -3,9 +3,9 @@
 var ageCheck = {
   
   //Set the minimum age and where to redirect to
-  minimumAge : 21,
+  minimumAge : 18,
   userIsOldEnoughPage : "welcome.html",
-  userNotOldEnoughPage : "http://www.centurycouncil.org/landing",
+  userNotOldEnoughPage : "http://www.googleo.com",
 
 
   //Leave this stuff alone please :)
